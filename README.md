@@ -10,6 +10,7 @@ A real-time data pipeline that fetches YouTube video statistics from playlists a
 - **Avro Serialization**: Efficient data serialization with Avro schemas
 - **Confluent Cloud**: Cloud-native Kafka streaming platform
 - **Configurable**: Easy configuration for different playlists and APIs
+- **Telegram Alert Bot**: Integrated to send real-time alerts about YouTube activity
 
 ## 📋 Prerequisites
 
@@ -193,6 +194,14 @@ For issues and questions:
 - Check the troubleshooting section
 - Review Confluent Cloud documentation
 - Check YouTube API documentation
+
+## 🤖 Telegram Alert Bot Integration
+
+A Telegram bot is integrated to send real-time alerts about YouTube activity (such as changes in likes) directly to your Telegram chat.
+
+### Example Alert Screenshot
+
+![Telegram Alert Example](docs/telegram_alert_example.jpg)
 
 ---
 
