@@ -201,7 +201,7 @@ A Telegram bot is integrated to send real-time alerts about YouTube activity (su
 
 ### Example Alert Screenshot
 
-![Telegram Alert Example](docs/telegram_alert_example.jpg)
+![Telegram Alert Example](docs/telegram_alert_example.png)
 
 ---
 
